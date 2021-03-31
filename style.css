@@ -1,0 +1,11 @@
+/*Charlie Barnhart
+About a holiday
+style.css
+02/04/19 */
+
+h1{font-style: italic; text-align: center; font-size: 400%; background-color: white; border-style: inset;}
+body{background-image: url("heartpattern.jpg");}
+section{border-style: inset;background-color: white;font-size: 150%;}
+article{border-style: inset;background-color: white;font-size: 150%;}
+aside{border-style: inset;background-color: white;font-size: 150%;text-align: center;}
+footer{border-style: inset;background-color: white;font-size: 150%;text-align: center;}
